@@ -22,7 +22,7 @@ h1, h2, h3
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	background-repeat: no-repeat;
-	background-image: url(../images/headers-lc.gif);
+	background-image: url(../images/headers-lc.png);
 }
 h1 span, h2 span, h3 span { display:block; visibility:hidden; }
 
