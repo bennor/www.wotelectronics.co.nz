@@ -22,7 +22,7 @@ h1, h2, h3
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	background-repeat: no-repeat;
-	background-image: url(/images/headers-lc.gif);
+	background-image: url(../images/headers-lc.gif);
 }
 h1 span, h2 span, h3 span { display:block; visibility:hidden; }
 
@@ -50,7 +50,7 @@ p:first-child {	margin-top: 0.75em; }
 .clear { clear:both; }
 .hidden { display: none; }
 .clickable { cursor: pointer; }
-/*.loading { background: url(/images/loading.gif) no-repeat center center; }*/
+/*.loading { background: url(../images/loading.gif) no-repeat center center; }*/
 
 #wrapper
 {
@@ -150,7 +150,7 @@ p:first-child {	margin-top: 0.75em; }
 #brands-serviced td
 {
 	text-align: left;
-	background: url(/images/note.gif) no-repeat left 5px;
+	background: url(../images/note.gif) no-repeat left 5px;
 	padding: 0 25px 0 15px;
 	vertical-align: top;
 }
@@ -169,23 +169,23 @@ p:first-child {	margin-top: 0.75em; }
 }
 dd.name
 {
-	background-image:url(/images/name.gif);
+	background-image:url(../images/name.gif);
 }
 dd.address
 {
-	background-image:url(/images/home.gif);
+	background-image:url(../images/home.gif);
 }
 dd.phone
 {
-	background-image:url(/images/phone.gif);
+	background-image:url(../images/phone.gif);
 }
 dd.mobile
 {
-	background-image:url(/images/mobile.gif);
+	background-image:url(../images/mobile.gif);
 }
 dd.email
 {
-	background-image:url(/images/mail.gif);
+	background-image:url(../images/mail.gif);
 	background-position:0 0.5em !important;
 }
 
