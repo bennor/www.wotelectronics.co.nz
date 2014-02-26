@@ -150,10 +150,11 @@ p:first-child {	margin-top: 0.75em; }
 #brands-serviced td
 {
 	text-align: left;
-	background: url(../images/note.gif) no-repeat left 5px;
+    background: url(../images/icons.png) no-repeat 0 -215px;
 	padding: 0 25px 0 15px;
 	vertical-align: top;
 }
+#brands-serviced td.blank { background: none }
 
 #contact-details dl
 {
@@ -164,30 +165,30 @@ p:first-child {	margin-top: 0.75em; }
 {
 	margin-left:15px;
 	padding-left: 15px;
-	background-position:0 0.4em;
-	background-repeat:no-repeat;
+    background-image: url(../images/icons.png);
+    background-repeat: no-repeat;
 }
 dd.name
 {
-	background-image:url(../images/name.gif);
+	background-position: 0 -165px;
 }
 dd.address
 {
-	background-image:url(../images/home.gif);
+	background-position: 0 -15px;
 }
 dd.phone
 {
-	background-image:url(../images/phone.gif);
+	background-position: 0 -265px;
 }
 dd.mobile
 {
-	background-image:url(../images/mobile.gif);
+	background-position: 0 -115px;
 }
 dd.email
 {
-	background-image:url(../images/mail.gif);
-	background-position:0 0.5em !important;
+	background-position: 0 -64px;
 }
+
 
 #sidebar
 {
